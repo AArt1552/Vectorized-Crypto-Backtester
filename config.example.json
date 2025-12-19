@@ -1,0 +1,113 @@
+{
+  "initial_balance": [1000.0],
+  "candles_file_BTC": ["datasets/BTC_val.json"],
+  "candles_file_asset": ["datasets/ADA_val.json"],
+  "candles_file_fear": ["datasets/fear_index.json"],
+
+  "entry_percentage": [5],
+  "disable_stop_loss": [true],
+
+  "btc_minimum_enable": [false],
+  "btc_minimum_pct_to_entry": [0.00125],
+  "btc_minimum_window": [13],
+
+  "asset_minimum_enable": [true],
+  "asset_minimum_pct_to_entry": [0.00125],
+  "asset_minimum_window": [2],
+
+  "leverage_BTC": [5],
+  "leverage_Reentry": [25],
+  "leverage_SP": [30],
+
+  "fear_high_leverage_BTC": [35],
+  "fear_high_leverage_Reentry": [15],
+  "fear_high_leverage_SP": [15],
+
+  "fear_low_leverage_BTC": [15],
+  "fear_low_leverage_Reentry": [10],
+  "fear_low_leverage_SP": [25],
+
+  "sp_btc_entry_trigger_value": [0.01],
+  "sp_btc_entry_trigger_period": [1],
+  "sp_reentry_pct_values": [0.02],
+  "sp_reentry_window_values": [2],
+
+  "btc_entry_trigger_value": [0.01],
+  "btc_entry_trigger_period": [2],
+  "btc_exit_trigger_value": [0.0225],
+  "btc_exit_trigger_period": [15],
+  "btc_entry_long_trigger_value": [0.014],
+  "btc_entry_long_trigger_period": [3],
+  "btc_exit_long_trigger_value": [0.02],
+  "btc_exit_long_trigger_period": [3],
+
+  "btc_exit_panic_trigger_value": [0.04],
+  "btc_exit_panic_trigger_period": [20],
+
+  "reentry_pct_values": [0.02],
+  "reentry_window_values": [3],
+  "reentry_pct_values_2": [0.023],
+  "reentry_window_values_2": [5],
+
+  "asset_exit_panic_trigger_value": [999],
+  "asset_exit_panic_trigger_period": [5],
+
+  "take_profit_dynamic": [true],
+  "take_profit_trigger": [0.025],
+  "take_profit_update_enable": [true],
+  "take_profit_update": [0.01],
+  "take_profit_multiplier": [0.0075],
+  "cooldown_tp": [50],
+  "take_profit_confirmation_sl_pct": [0.002],
+  "take_profit_confirmation_end_pct": [0.004],
+
+  "take_profit_update_add_to_sl": [0.005],
+
+  "stop_loss": [0.02],
+  "stop_loss_cooldown": [3000],
+  "stop_loss_hard": [0.04],
+  "cooldown_sl": [10],
+
+  "max_entries_day": [9],
+  "max_entries_day_btc": [false],
+  "red_alert_trigger_pct": [0.1],
+  "red_alert_reset_pct": [0.04],
+  "exit_position_red_alert": [false],
+  "fixed_fee": [0.001],
+
+  "fear_high_override": [true],
+  "fear_high_value": [60],
+  "fear_high_btc_entry_trigger_value": [0.01],
+  "fear_high_btc_entry_trigger_period": [2],
+  "fear_high_btc_exit_trigger_value": [0.0125],
+  "fear_high_btc_exit_trigger_period": [1],
+  
+  "fear_high_btc_entry_long_trigger_value": [0.015],
+  "fear_high_btc_entry_long_trigger_period": [6],
+  "fear_high_btc_exit_long_trigger_value": [0.02],
+  "fear_high_btc_exit_long_trigger_period": [4],
+  "fear_high_reentry_pct_values": [0.015],
+  "fear_high_reentry_window_values": [3],
+  "fear_high_reentry_pct_values_2": [0.02],
+  "fear_high_reentry_window_values_2": [2],
+
+  "fear_low_override": [true],
+  "fear_low_value": [40],
+  "fear_low_btc_entry_trigger_value": [0.01],
+  "fear_low_btc_entry_trigger_period": [1],
+  "fear_low_btc_exit_trigger_value": [0.01],
+  "fear_low_btc_exit_trigger_period": [1],
+  "fear_low_btc_entry_long_trigger_value": [0.0175],
+  "fear_low_btc_entry_long_trigger_period": [27],
+  "fear_low_btc_exit_long_trigger_value": [0.02],
+  "fear_low_btc_exit_long_trigger_period": [3],
+  "fear_low_reentry_pct_values": [0.02],
+  "fear_low_reentry_window_values": [6],
+  "fear_low_reentry_pct_values_2": [0.024],
+  "fear_low_reentry_window_values_2": [5],
+
+  "fear_stop": [true],
+  "fear_stop_value": [23],
+  "fear_stop_btc_entry": [true],
+  "fear_stop_exit_position": [false]
+}
